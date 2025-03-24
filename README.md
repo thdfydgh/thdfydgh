@@ -23,7 +23,7 @@
 >[Repo link](https://github.com/thdfydgh/ESPNet-KorEduEng)
 
 
-🏅`[top 2%] in LGAIMERS Predicting Pregnancy Success in Infertility Patients`  
+🏅`[top 2%] in LGAIMERS 6 Predicting Pregnancy Success in Infertility Patients`  
 >Task: Online AI Hackathon for Predicting Pregnancy Success in Infertility Patients.
 >[link](https://dacon.io/competitions/official/236452/leaderboard)
   
@@ -36,7 +36,7 @@
 > Task: Traffic-Accident-Injury-Forecast 
 > [Repo link](https://github.com/thdfydgh/Daegu-Traffic-Accident-Injury-Forecast)  
   
-`[top 8%] Predictive Model for Creating B2B Sales Opportunities Based on MQL Data`  
+`[top 8%] in LGAIMERS 4 Predictive Model for Creating B2B Sales Opportunities Based on MQL Data`  
 >Task: Development of a Predictive Model for Creating B2B Sales Opportunities Based on MQL Data
 >[link](https://github.com/thdfydgh/LGAimers4)
   
@@ -60,7 +60,6 @@
 |2024.08-2024.09|이상금융거래 데이터셋으로 분류 AI모델을 구현하고, 오픈소스 생성형 AI 모델을 응용/활용하여 분류 AI모델의 성능을 개선|[Project Space](https://github.com/thdfydgh/FSI-AIxData-Challenge-2024-BITAmin12th)|
 |2024.03-2024.06|AIHUB 데이터를 활용하여 U-net으로 segmentation이후 VGG로 상하의를 분류하여 유사도 높은 패션 추천|[Project Space](https://github.com/thdfydgh/Personalized-Clothing-Recommendation)|
 |2024.03-2024.06|Cartoon GAN을 활용하여 실제 사진을 ‘OnePiece’ Cartoon 스타일의 이미지로 변환|[Project Space](https://github.com/thdfydgh/real2onepieceGAN)|
-|2024.03-2024.06|AIHUB 데이터를 활용하여 U-net으로 segmentation이후 VGG로 상하의를 분류하여 유사도 높은 패션 추천|[Project Space](https://github.com/thdfydgh/Personalized-Clothing-Recommendation)|
 |2024.03-2024.06|서울시 교통사고 상해예측 & 위험요인 분석|[Project Space](https://github.com/thdfydgh/2024_DataMining_TeamProject_1team)|
 |2023.01-2023.02|클린스만감독경질이후 여론분석|[Project Space](https://github.com/thdfydgh/asiancup2024_SentimentalAnalysis)|
 |2022.07-2023.07| 군대에서 해보는 군 관련 데이터분석|[Project Space](https://github.com/thdfydgh/MilitaryProjectDA)|
