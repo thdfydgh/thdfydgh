@@ -9,7 +9,7 @@
 - Current working in Center for climate and carbon cycle research, KIST
 
 
-###Research Interest  
+### Research Interest  
 ---
 * Deep Learning-based Seasonal-Scale Weather Forecasting
 * Computer Vision
@@ -17,7 +17,7 @@
 * Generative Models
   
   
-##AI Challenge & Hackathon
+### AI Challenge & Hackathon
 ---
 
 
@@ -44,7 +44,7 @@
 >[link](https://github.com/thdfydgh/LGAimers4)
   
 
-## Experience  
+### Experience  
 ---
 |PERIOD|TITLE|DESCRIPTION|
 |---|---|---|
@@ -57,7 +57,7 @@
 |2023.02~<br>2023.07|2023 Military SW·AI Capacity Building Training|수료|
 |2022.07~<br>2022.12|2022 Military SW·AI Capacity Building Training|수료|
 
-##Project  
+### Project  
 ---
 |PERIOD|TITLE|DESCRIPTION|
 |---|---|---|
