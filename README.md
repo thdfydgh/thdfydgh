@@ -1,21 +1,24 @@
-### 🤗 Yongho Song 🤗
+### Yongho Song
 
 
   
-### 💁🏻‍♂️ About me
+### About me
+---
 - B.S. in Industrial Information System Engineering, Seoul National University Science & Technology
 
 - Current working in Center for climate and carbon cycle research, KIST
 
 
-### 🔎 Research Interest  
+###Research Interest  
+---
 * Deep Learning-based Seasonal-Scale Weather Forecasting
 * Computer Vision
 * Dacon AI Competition
 * Generative Models
   
   
-## 🏆 AI Challenge & Hackathon
+##AI Challenge & Hackathon
+---
 
 
 🥇`[1st Place] in 2024 Winter AI SCI Bootcamp `  
@@ -41,7 +44,8 @@
 >[link](https://github.com/thdfydgh/LGAimers4)
   
 
-## ✨ Experience  
+## Experience  
+---
 |PERIOD|TITLE|DESCRIPTION|
 |---|---|---|
 |2025.03~<br>current| Korea Institute of Science and Technology (KIST)|~ing|
@@ -53,7 +57,8 @@
 |2023.02~<br>2023.07|2023 Military SW·AI Capacity Building Training|수료|
 |2022.07~<br>2022.12|2022 Military SW·AI Capacity Building Training|수료|
 
-## 🚴‍♂️ Project  
+##Project  
+---
 |PERIOD|TITLE|DESCRIPTION|
 |---|---|---|
 |2025.01-2025.02|2024 동계 인공지능 SCI 부트캠프|[Project Space](https://github.com/thdfydgh/ESPNet-KorEduEng)|
