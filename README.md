@@ -19,6 +19,9 @@
   
 ### AI Challenge & Hackathon
 ---
+🥇`[1st Place] in AI Competition for Credit Card Customer Segment Classification `  
+>Task: Credit Card Customer Segment Classification. 
+>[Repo link](https://github.com/thdfydgh/AI-Competition-for-Credit-Card-Customer-Segment-Classification.)
 
 
 🥇`[1st Place] in 2024 Winter AI SCI Bootcamp `  
