@@ -20,32 +20,25 @@
 ### AI Challenge & Hackathon
 ---
 🥇`[1st Place] in AI Competition for Credit Card Customer Segment Classification `  
->Task: Credit Card Customer Segment Classification. 
+>Task: Developed an ensemble AI model classifying financial customers into segments (A, B, C, D, E).
 >[Repo link](https://github.com/thdfydgh/AI-Competition-for-Credit-Card-Customer-Segment-Classification.)
 
-
-🥇`[1st Place] in 2024 Winter AI SCI Bootcamp `  
+🥇`[1st Place (₩ 3,000,000)] in 2024 Winter AI SCI Bootcamp `  
 >Task: optimize a speech recognition model using ESPnet 
 >[Repo link](https://github.com/thdfydgh/ESPNet-KorEduEng)
 
+🥈`[2nd Place (₩ 10,000,000)] in AI Competition for Traffic Accident Risk Prediction`
+>Task: Developed AI model predicting traffic accident risk using cognitive characteristics data of commercial drivers.
 
-🏅`[top 2%] in LGAIMERS 6 Predicting Pregnancy Success in Infertility Patients`  
->Task: Online AI Hackathon for Predicting Pregnancy Success in Infertility Patients.
->[link](https://dacon.io/competitions/official/236452/leaderboard)
-  
+🥈`[2nd Place (₩ 5,000,000)] in Samsung AI Challenge 2025`
+>Task: Built a multimodal AI-based document parsing model for diverse formats (.png, .jpg, .pdf, .pptx).
 
-🏅`[6th Place] in FSI AIxData Challenge 2024 Public 10th Private 6th`
->Task:Implementing a classification AI model with abnormal financial transaction datasets and enhancing its performance by applying open-source generative AI models
->[CODE](https://github.com/thdfydgh/FSI-AIxData-Challenge-2024-BITAmin12th)
+🥉`[Encouragement Award] in 4th ETRI Human Understanding AI Paper Competition`
+>Task: Developed a lightweight ML model predicting sleep quality from lifelog sensor time-series data.
 
-`[top 5%] in Daegu-Traffic-Accident-Injury-Forecast Public 6th Private 48th`  
-> Task: Traffic-Accident-Injury-Forecast 
-> [Repo link](https://github.com/thdfydgh/Daegu-Traffic-Accident-Injury-Forecast)  
-  
-`[top 8%] in LGAIMERS 4 Predictive Model for Creating B2B Sales Opportunities Based on MQL Data`  
->Task: Development of a Predictive Model for Creating B2B Sales Opportunities Based on MQL Data
->[link](https://github.com/thdfydgh/LGAimers4)
-  
+🥉`[Encouragement Award] in Weather Big Data Contest`
+>Task: Predicted subway congestion by integrating weather, traffic, and ridership heterogeneous data.
+
 
 ### Experience  
 ---
