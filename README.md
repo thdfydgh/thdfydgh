@@ -33,10 +33,10 @@
 🥈`[2nd Place (₩ 5,000,000)] in Samsung AI Challenge 2025`
 >Task: Built a multimodal AI-based document parsing model for diverse formats (.png, .jpg, .pdf, .pptx).
 
-🥉`[Encouragement Award] in 4th ETRI Human Understanding AI Paper Competition`
+🥉`[Encouragement Award (₩ 800,000)] in 4th ETRI Human Understanding AI Paper Competition`
 >Task: Developed a lightweight ML model predicting sleep quality from lifelog sensor time-series data.
 
-🥉`[Encouragement Award] in Weather Big Data Contest`
+🥉`[Encouragement Award (₩ 500,000)] in Weather Big Data Contest`
 >Task: Predicted subway congestion by integrating weather, traffic, and ridership heterogeneous data.
 
 
