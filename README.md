@@ -21,7 +21,7 @@
 ---
 🥇`[1st Place] in AI Competition for Credit Card Customer Segment Classification `  
 >Task: Developed an ensemble AI model classifying financial customers into segments (A, B, C, D, E).
->[Repo link](https://github.com/thdfydgh/AI-Competition-for-Credit-Card-Customer-Segment-Classification.)
+
 
 🥇`[1st Place (₩ 3,000,000)] in 2024 Winter AI SCI Bootcamp `  
 >Task: optimize a speech recognition model using ESPnet 
@@ -29,9 +29,11 @@
 
 🥈`[2nd Place (₩ 10,000,000)] in AI Competition for Traffic Accident Risk Prediction`
 >Task: Developed AI model predicting traffic accident risk using cognitive characteristics data of commercial drivers.
+>[Repo link](https://github.com/thdfydgh/Traffic-Accident-Risk-Prediction-using-Cognitive-Characteristics-of-Commercial-Drivers)
 
 🥈`[2nd Place (₩ 5,000,000)] in Samsung AI Challenge 2025`
 >Task: Built a multimodal AI-based document parsing model for diverse formats (.png, .jpg, .pdf, .pptx).
+>[Repo link](https://github.com/thdfydgh/Visually-rich-Document-Understanding-2025-Samsung-AI-Challenge)
 
 🥉`[Encouragement Award (₩ 800,000)] in 4th ETRI Human Understanding AI Paper Competition`
 >Task: Developed a lightweight ML model predicting sleep quality from lifelog sensor time-series data.
