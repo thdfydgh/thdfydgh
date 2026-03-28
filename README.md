@@ -11,10 +11,11 @@
 
 ### Research Interest  
 ---
-* Deep Learning-based Seasonal-Scale Weather Forecasting
-* Computer Vision
+* Data Pattern Discovery
+* Data-driven Quality Insight
 * Dacon AI Competition
-* Generative Models
+* Pattern-driven Modeling
+* Hidden Pattern Discovery in Data
   
   
 ### AI Challenge & Hackathon
